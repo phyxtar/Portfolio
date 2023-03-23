@@ -2,6 +2,7 @@ import {
   mobile,
   backend,
   creator,
+  wordpress,
   web,
   javascript,
   typescript,
@@ -15,6 +16,7 @@ import {
   git,
   figma,
   docker,
+  wordpressi,
   meta,
   starbucks,
   tesla,
@@ -23,6 +25,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  sea,
+  tas,
+  alegar,
 } from '../assets';
 
 export const navLinks = [
@@ -46,12 +51,16 @@ const services = [
     icon: web,
   },
   {
-    title: 'React Native Developer',
+    title: 'MERN Stack Developer',
     icon: mobile,
   },
   {
     title: 'Backend Developer',
     icon: backend,
+  },
+  {
+    title: 'WordPress Developer',
+    icon: wordpress,
   },
   {
     title: 'Content Creator',
@@ -109,8 +118,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: 'docker',
-    icon: docker,
+    name: 'wordpress',
+    icon: wordpressi,
   },
 ];
 
@@ -198,33 +207,37 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Car Rent',
+    name: 'Sea Trials',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'Web-based platform that helps users to study and PASS the U.S. Coast Guard DECK & ENGINE Exams for ALL ratings. This is similar to Upgrade U but brought into the future! Website and App sync all bookmarks and resume functionality! Printable tests! Updated Questions!',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
+        name: 'nodejs',
+        color: 'red',
+      },
+      {
         name: 'mongodb',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'bootstrap',
         color: 'pink-text-gradient',
       },
     ],
-    image: carrent,
-    source_code_link: 'https://github.com/',
+    image: sea,
+    source_code_link: 'https://seatrials.net/',
   },
   {
-    name: 'Job IT',
+    name: 'Tassigns',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'Web application that enables users to search for a full range of products and services which include: Custom Decorate Apparel (Screen Printing & Embroidery) Signs, Displays, Banners & Flags Decals/Stickers/Labels Promotional Items ...and much more!',
     tags: [
       {
-        name: 'react',
+        name: 'HTML5',
         color: 'blue-text-gradient',
       },
       {
@@ -235,30 +248,38 @@ const projects = [
         name: 'scss',
         color: 'pink-text-gradient',
       },
+      {
+        name: 'DecoNetwork',
+        color: 'blue-text-gradient',
+      },
     ],
-    image: jobit,
-    source_code_link: 'https://github.com/',
+    image: tas,
+    source_code_link: 'https://www.tassigns.com/',
   },
   {
-    name: 'Trip Guide',
+    name: 'Alegar Corp',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'A comprehensive E-commerce website build in wordPress technology which hwlp helps user or customer to buy Cannabies related products , The company AlegarCorp basically deal whih cannabies products such as - Child Resistant Tins , Displays, Promotional Products & Merchandise and etc...',
     tags: [
       {
-        name: 'nextjs',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Bootstrap',
         color: 'pink-text-gradient',
       },
+      {
+        name: 'WordPress',
+        color: 'blue-text-gradient',
+      },
     ],
-    image: tripguide,
-    source_code_link: 'https://github.com/',
+    image: alegar,
+    source_code_link: 'https://alegarcorp.com/',
   },
 ];
 
