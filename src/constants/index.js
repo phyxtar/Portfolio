@@ -125,55 +125,63 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'React.js Developer',
-    company_name: 'Starbucks',
+    title: 'MERN Stack Developer',
+    company_name: 'Elevera Technologies',
     icon: starbucks,
     iconBg: '#383E56',
-    date: 'March 2020 - April 2021',
+    date: 'Feb 2020 - Dec 2022',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
+      'Developing and maintaining web applications using React.js & Nodejs and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
       'Implementing responsive design and ensuring cross-browser compatibility.',
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
   {
-    title: 'React Native Developer',
-    company_name: 'Tesla',
-    icon: tesla,
+    title: 'Web Developer & Wordpress Developer',
+    company_name: 'Elevera Technologies',
+    icon: starbucks,
     iconBg: '#E6DEDD',
-    date: 'Jan 2021 - Feb 2022',
+    // date: 'Jan 2021 - Feb 2022',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Design and establish User- Friendly Website, Including optimize checkout-page resulting in a 25% increase in user clicks and subsequently 33% in customer purchases',
+      'Provide adequate training to 60+ staff members and 20+ junior web developers in internal web functions, including steps on how to make minior updates/chnages independently.',
+      'Establish an interactive and dynamic website that guarantees high traffic, page views, and maximum user experience, generating a 45 % increase in the companys sales revenue.',
+      'Conceptualize and enforce a server that accellerated document generation as well as the search - Functionality of current websites by 15%, garnering consistant, commendation and award from the top management.',
     ],
   },
   {
     title: 'Web Developer',
-    company_name: 'Shopify',
+    company_name: 'Innovateurs',
     icon: shopify,
     iconBg: '#383E56',
-    date: 'Jan 2022 - Jan 2023',
+    date: 'Freelancer (Present)',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Used various technologies. inclucing JavaScript to make code repairs and optimize coporate website.',
+      'Determined coding requirements for site creation, including e-commerce capability and security ans specialized scripts.',
+      'Tested websites and performed user testing and troubleshooting prior to live deployment.',
+      'Analyzed and implemented software applications for multiple websites.',
     ],
   },
   {
     title: 'Full stack Developer',
-    company_name: 'Meta',
-    icon: meta,
+    company_name: 'Innovateurs',
+    icon: shopify,
     iconBg: '#E6DEDD',
-    date: 'Jan 2023 - Present',
+
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Managed 15+ web design projects from start to finish using HTML5,JavaScript, and CSS3 with 100% client satisfaction.',
+
+      'Designed and allocated interactive flyers and ads on the site for upcoming promotions and events, increasing site visits by 25%.',
       'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+
+      'Redesigned 3 websites for top brands using a content management system, driving UX results by 20% and customer retention rate by 10%.',
+
+      'Managed all aspects of professional website design focusing on overall site navigation and information architecture for 30+ commercial and personal websites.',
+
+      'Created 5+ responsive websites and custom graphic sets for clients, achieving a 100% client satisfaction rate.',
+
+      'Delivered a wide range of web services to include web editing, multimedia animation, virtual postcards, flash sites, and interface design.',
     ],
   },
 ];
@@ -259,7 +267,7 @@ const projects = [
   {
     name: 'Alegar Corp',
     description:
-      'A comprehensive E-commerce website build in wordPress technology which hwlp helps user or customer to buy Cannabies related products , The company AlegarCorp basically deal whih cannabies products such as - Child Resistant Tins , Displays, Promotional Products & Merchandise and etc...',
+      'A comprehensive E-commerce website build in wordPress technology which helps user or customer to buy Cannabies related products , The company AlegarCorp basically deal whih cannabies products such as - Child Resistant Tins , Displays, Promotional Products & Merchandise and etc...',
     tags: [
       {
         name: 'HTML',
